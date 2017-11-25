@@ -8,7 +8,7 @@ I primarily blog about applications of machine learning and other statistical an
 
 ### Diversions
 
-In another life, I have interests such as:
+In another life, I also dabble in:
 
 - [Fiction]()
 - [Poetry]()
